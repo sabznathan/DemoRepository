@@ -2,3 +2,4 @@ Adding the 1st line of code in Git
 Adding the feature's to the code
 Adding will not affect the master
 Adding 4th line
+Adding 5th line to the document
