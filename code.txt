@@ -4,3 +4,4 @@ Adding will not affect the master
 Adding 4th line
 Adding 5th line
 Adding 6th line
+Adding 7th line
